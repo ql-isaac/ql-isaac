@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ql-isaac</h1>
 <h3 align="center">imql.life</h3>
 
-- 📝 I regularly write articles on [blog.imql.life](blog.imql.life)
+- 📝 I regularly write articles on [blog.imql.life](https://blog.imql.life)
 
 - 📫 How to reach me **qinlei.isaac@gmail.com**
 
