@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ql-isaac</h1>
-<h3 align="center">https://imql.life</h3>
+<h3 align="center">https://www.imql.life</h3>
 
 - 📝 I regularly write articles on [my blog](https://blog.imql.life).
 
